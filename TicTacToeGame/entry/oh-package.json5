@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "双人井字棋游戏 - 棋子10秒后消失",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
